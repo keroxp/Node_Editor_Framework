@@ -1,0 +1,12 @@
+{
+  "name": "node-editor-framework",
+  "version": "0.0.1", 
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/keroxp/Node_Editor_Framework.git"
+  },
+  "keywords": [
+    "unity3d-package"
+  ],
+  "license": "MIT"
+}
